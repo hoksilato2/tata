@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 512 512"
+   width="512pt"
+   height="512pt"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="005-cat.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.2260742"
+     inkscape:cx="199.82477"
+     inkscape:cy="340.10992"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <defs
+     id="defs25">
+    <clipPath
+       id="_clipPath_2qZmdzeLGGc6WBPMP9QlVfWAWgeuG2UV">
+      <rect
+         width="512"
+         height="512"
+         id="rect22" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_2qZmdzeLGGc6WBPMP9QlVfWAWgeuG2UV)"
+     id="g36">
+    <ellipse
+       vector-effect="non-scaling-stroke"
+       cx="256"
+       cy="256.00000000000006"
+       rx="256"
+       ry="257.7355275548182"
+       fill="rgb(252,221,9)"
+       id="ellipse27" />
+    <clipPath
+       id="_clipPath_kH9Dc9mch5w5jJOgCgCHz7p5ADAwDmdJ">
+      <ellipse
+         vector-effect="non-scaling-stroke"
+         cx="256"
+         cy="256.00000000000006"
+         rx="256"
+         ry="257.7355275548182"
+         fill="rgb(252,221,9)"
+         id="ellipse29" />
+    </clipPath>
+    <g
+       clip-path="url(#_clipPath_kH9Dc9mch5w5jJOgCgCHz7p5ADAwDmdJ)"
+       id="g34">
+      <path
+         d="m -0.024,84.164 h 512.048 m -0.048,113.6 h -512 m 0,113.6 h 512 m 0,113 h -512"
+         fill-rule="evenodd"
+         fill="none"
+         vector-effect="non-scaling-stroke"
+         stroke-width="60"
+         stroke="#da121a"
+         stroke-opacity="1"
+         stroke-linejoin="miter"
+         stroke-linecap="butt"
+         stroke-miterlimit="4"
+         id="path32"
+         style="display:inline;image-rendering:auto;stroke-width:100;stroke-dasharray:none"
+         inkscape:label="path32" />
+    </g>
+  </g>
+</svg>
